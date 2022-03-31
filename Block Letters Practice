@@ -1,0 +1,22 @@
+# Ruriko Widmar
+# Fun Fact: I'm awesome.
+name = """
+RRRR       w   w
+R   R      w   w
+R   R      w   w
+RRRR       w w w
+R R        ww ww
+R  R       ww ww
+R   R      w   w
+"""
+print(name)
+
+# Ruriko Widmar, RW
+# Fun Fact: I love music.
+print(" RRR     W   W ")
+print(" R   R   W   W ")
+print(" R   R   W   W ")
+print(" RRRR    W W W ")
+print(" R R     WW WW ")
+print(" R  R    WW WW ")
+print(" R   R   W   W ")
